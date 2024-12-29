@@ -11,7 +11,7 @@
 - Acesse este diretorio cd /home/tool/
 - Baixe o login page do facebook com wget ou curl 
 - curl https://raw.githubusercontent.com/percioandrade/cibersecurity-desafio-phishing/refs/heads/master/facebook_login_template.html > index.html
-Acesse o setoolkit e siga a sequencia de imagens abaixo:
+- Acesse o setoolkit e siga a sequencia de imagens abaixo:
 
 ### Configurando o Phishing no Kali Linux
 - Acesso root: ``` sudo su ```
