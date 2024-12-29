@@ -24,5 +24,6 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
+![passwd](https://github.com/user-attachments/assets/50facc98-4cce-4446-a218-446d2593eea3)
 
-![Alt text](./passwd.png "Optional title")
+
